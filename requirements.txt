@@ -2,3 +2,5 @@ streamlit
 vaderSentiment
 pymupdf
 reportlab
+matplotlib
+Pillow
