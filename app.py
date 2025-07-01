@@ -88,7 +88,7 @@ def generate_pdf(sentiment_results, graph_path):
     return pdf_path
 
 # 5. Streamlit App UI
-st.title("📊 PDF Speech Sentiment Analyzer")
+st.title("PDF Speech Sentiment Analyzer")
 
 uploaded_file = st.file_uploader("Upload your speech (PDF format)", type=["pdf"])
 
